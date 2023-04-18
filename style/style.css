@@ -1,3 +1,25 @@
-nav{
-    background-color: cadetblue;
+ul{
+    background-color: rgb(74, 159, 162);
+    margin:0px;
+    padding:1%;
+}
+
+li{
+    display:inline-block;
+}
+
+body {
+    background-color: darkslategrey;
+    margin:0px;
+}
+
+a{
+
+    background-color: rgb(74, 159, 162);
+    text-decoration: None;
+    margin:0px;
+}
+
+a:hover{
+    background-color: rgb(45, 119, 121);
 }
