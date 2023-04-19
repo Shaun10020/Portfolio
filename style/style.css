@@ -1,5 +1,5 @@
 body {
-    background-image: url('../resources/gear.png');
+    background-image: url('../img/gear.png');
     margin: 0px;
     padding: 0px;
 }
@@ -33,3 +33,6 @@ body {
    background-color:rgb(45, 119, 121);
 }
 
+#content div{
+    background-color: darkslategrey;
+}
