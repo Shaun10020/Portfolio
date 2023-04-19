@@ -46,6 +46,10 @@ body {
     overflow:auto;
 }
 
+.row{
+    flex-direction: row;
+}
+
 .center {
     margin: auto;
     width: 75%;
