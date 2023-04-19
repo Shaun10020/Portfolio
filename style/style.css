@@ -1,25 +1,35 @@
-ul{
-    background-color: rgb(74, 159, 162);
-    margin:0px;
-    padding:1%;
-}
-
-li{
-    display:inline-block;
-}
-
 body {
     background-color: darkslategrey;
-    margin:0px;
+    margin: 0px;
+    padding: 0px;
 }
 
-a{
+#nav ul{
+    background-color: rgb(74, 159, 162);
+    border:none;
+    margin:0%;
+    padding:0%;
+}
 
+#nav li{
+  display: inline-block;
+    border:none;
+}
+
+#nav a{
     background-color: rgb(74, 159, 162);
     text-decoration: None;
-    margin:0px;
+    color:white;
+    font-weight:bold;
+    display:block;
+    text-align:center;
+    text-transform:uppercase;
+    width:164px;
+    line-height:36px;
 }
 
-a:hover{
-    background-color: rgb(45, 119, 121);
+#nav a:hover
+ {
+   background-color:rgb(45, 119, 121);
 }
+
