@@ -1,5 +1,5 @@
 body {
-    background-color: darkslategrey;
+    background-image: url('../resources/gear.png');
     margin: 0px;
     padding: 0px;
 }
@@ -19,7 +19,7 @@ body {
 #nav a{
     background-color: rgb(74, 159, 162);
     text-decoration: None;
-    color:white;
+    color:rgb(1, 66, 92);
     font-weight:bold;
     display:block;
     text-align:center;
