@@ -10,6 +10,26 @@ body {
     height: 100%;
 }
 
+#footer {
+    background-color: rgb(74, 159, 162);
+}
+
+#footer >  * {
+    background-color: rgb(74, 159, 162);
+    border:none;
+    margin:0%;
+    padding:0%;
+}
+
+#footer > h4{
+    padding-top:5px;
+    margin-left:5%;
+}
+
+#footer > h5{
+    margin-left:7%;
+}
+
 #nav ul{
     background-color: rgb(74, 159, 162);
     border:none;
